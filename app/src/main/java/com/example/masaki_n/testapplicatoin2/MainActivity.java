@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
     // test from Home with MacBookPro
     // test in GitHub website
     // test from MacBookPro while the original file edited in GitHub website
+    // test for conflict
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
